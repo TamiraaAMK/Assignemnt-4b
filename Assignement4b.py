@@ -1,4 +1,8 @@
+# File name: Assignement4b.py
+# Author: Tamir Erdenebadrakh
+# Description: Functional program that for memorizing game
 
+# main program
 def main():
 
     theList = ["horse", 14, 15.4]
